@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Mobiloscope</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_terminal">Terminal</string>
+
+
+    <string name="title_activity_dc">DC Voltage Measurement (0-5)</string>
+    <string name="title_activity_dc2">DC Voltage Measurement (0-50)</string>
+
+    <string name="title_activity_oscilloscope">Oscilloscope Display</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="title_activity_oscilloscope_start">oscilloscopeStart</string>
+    <string name="title_activity_line_chart">LineChartActivity</string>
+    <string name="title_activity_ohm_meter">ohmMeter</string>
+    <string name="title_activity_dynamic_chart">dynamicChart</string>
+    <string name="title_activity_ac">ac</string>
+    <string name="title_activity_splash">SplashActivity</string>
+</resources>
